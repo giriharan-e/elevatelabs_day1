@@ -1,0 +1,48 @@
+order_id,customer_name,email,order_date,product,quantity,price,total,shipping_address,country,payment_status
+1001,Tonya Shaffer,wprice@gmail.com,2024-10-08,monitor,1,55803,55803,"3323 Flores Curve Suite 147, Lake Lisa, WI 08164, India",India,not paid
+1002,Michelle Morrison,wanderson@hotmail.com,2025-06-08,tablet,1,62336,62336,"934 Debra Plains, Port Kimberlyborough, WY 42454, India",India,pending
+1003,Victoria Harmon,rachel24@hotmail.com,2025-07-19,tablet,3,77482,232446,"50177 Jeremy Trail, New Victoriastad, DC 85571, India",India,paid
+1004,Jennifer Wilson,kpage@hotmail.com,2025-07-20,charger,3,969,2907,"15910 Miller Manors, Lake Kelly, CA 41434, India",India,not paid
+1005,Loretta Collins,kristinabarr@yahoo.com,2025-03-17,monitor,3,12685,38055,"777 Fernandez Shores, Lake Debra, IL 28104, India",India,paid
+1006,Felicia Hughes,pcochran@olson.com,2024-10-13,charger,3,20772,62316,"8554 Ward Islands, Lake Gregory, KY 48053, India",India,paid
+1007,customer_1,parmstrong@lee-olsen.info,2025-07-06,charger,3,41955,125865,"7602 Rivera Islands Apt. 176, New Jackieville, OH 67645, India",India,paid
+1008,Brittany Oneill,michelle51@gmail.com,2025-05-02,mouse,1,78120,78120,"45118 Ortega Falls Apt. 480, Whitneymouth, UT 31439, India",India,paid
+1009,Ronald Booth,paul59@gmail.com,2025-01-22,tablet,2,44972,89944,"41236 Alexander Wells Suite 385, Stephanieshire, VA 31094, India",India,paid
+1010,Sharon Pierce,jwood@ponce-jenkins.net,2025-04-11,tablet,3,65343,196029,"7329 Ashley Meadows, West Michael, IL 58388, India",India,paid
+1011,Ryan Vaughan,cynthia62@johnston-bender.com,2024-08-26,tablet,3,2876,8628,"837 Sharon Freeway Suite 221, Castromouth, CO 46788, India",India,not paid
+1012,Haley Harrison,rhill@hendrix-guzman.com,2024-11-02,mouse,2,32207,64414,"72720 Cindy Dam, Davidtown, VT 17564, India",India,not paid
+1013,Hector Baxter,whitedaniel@schneider-wilson.org,2025-05-15,headphones,2,23053,46106,"6449 Perkins Well, West William, TN 69742, India",India,paid
+1016,Christopher Martinez,gutierrezkara@yahoo.com,2025-05-28,laptop,1,62734,62734,"PSC 9935, Box 8927, APO AA 78988, India",India,pending
+1017,Michelle Brooks,pdavies@rogers.com,2025-04-09,phone,3,56164,168492,"189 Norris Unions Suite 399, West John, GA 06511, India",India,pending
+1018,Alan Hall,rachelpayne@arnold.net,2024-11-18,monitor,2,28526,57052,"6878 Heather River Suite 162, Lake Julie, ME 22690, India",India,not paid
+1019,Laura Fischer,scottcastro@yahoo.com,2025-06-14,keyboard,2,65755,131510,"69077 Perry Squares Suite 206, New Joshualand, CO 20602, India",India,pending
+1020,Karen Stanley,jacksonrobert@miller.org,2025-05-27,tablet,3,44887,134661,"95764 Mark Club, Erikaborough, IA 43326, India",India,pending
+1021,Gary Barrett,ynguyen@diaz.biz,2025-04-13,charger,1,38049,38049,"851 Kristin Viaduct, Collinview, FL 74599, India",India,paid
+1022,Evelyn Kelly,goodmanelizabeth@ford.com,2025-06-09,tablet,2,3944,7888,"44540 Allen Grove, Darrenport, LA 71837, India",India,not paid
+1023,Stacie Gilbert,jaimesexton@gmail.com,2025-04-21,phone,1,61253,61253,"246 Jason Garden Suite 989, East Christopher, ME 04938, India",India,pending
+1024,Ronnie Murphy,mbrown@rodriguez.com,2024-12-13,keyboard,1,65589,65589,"339 Harvey Forest, Troyfurt, NC 45866, India",India,not paid
+1025,Sarah Carr,pevans@gmail.com,2025-05-03,tablet,3,22895,68685,"11827 Ricky Flats Suite 042, Lake Kevinmouth, LA 28234, India",India,paid
+1026,Tara Silva,andreadodson@rodriguez.com,2025-07-29,monitor,3,26174,78522,"297 Barr Station Apt. 634, Nunezborough, CA 98289, India",India,paid
+1027,Nancy West,palmerpaul@gmail.com,2024-11-11,mouse,3,45387,136161,"4011 Burton Isle Suite 053, Ortizmouth, FL 96369, India",India,paid
+1028,Diane Gilbert,darrell27@martinez-compton.net,2024-11-10,mouse,3,13633,40899,"USS Cohen, FPO AA 29433, India",India,paid
+1029,customer_2,garciamichael@thomas.com,2024-08-10,tablet,3,43107,129321,"1440 Bell Square Apt. 438, Lake Oscar, MD 10145, India",India,pending
+1030,Kirsten Mitchell,julie24@carson-herrera.org,2025-07-01,tablet,1,6108,6108,"5519 Hardy Mission, Ruthville, NH 52250, India",India,pending
+1031,Amanda Moore,ashley12@hotmail.com,2025-03-29,keyboard,2,25353,50706,"7083 Hubbard Mission Suite 263, Lake Jackland, GA 57531, India",India,paid
+1032,Jay Salinas,amycervantes@yahoo.com,2025-07-31,tablet,1,24648,24648,"0321 Coffey Knolls Suite 212, West Sharonland, CO 22295, India",India,paid
+1033,Tammy Le,ysanchez@ortiz.org,2025-02-21,monitor,3,16577,49731,"7168 Berry Loop, Katherineburgh, CT 96933, India",India,pending
+1034,Jerry Haney,jmartinez@luna.net,2025-07-10,mouse,1,37415,37415,"8921 Shane Stream Apt. 659, West Adamstad, MI 46738, India",India,not paid
+1035,Brenda Richardson,baldwinbrandon@yahoo.com,2024-11-10,charger,2,70836,141672,"245 Waters Well, Millerchester, MN 31317, India",India,pending
+1036,David Vargas,harpercindy@reed.org,2024-11-07,keyboard,2,75034,150068,"74407 Burton Locks Suite 213, Crystalberg, DE 98590, India",India,not paid
+1037,Gary Gomez,mbarnes@hotmail.com,2025-04-03,tablet,2,63551,127102,"39305 Robinson Forks, Hernandezstad, FL 25110, India",India,paid
+1038,James Sanchez,downsjohn@taylor.net,2025-04-01,tablet,2,2939,5878,"0156 Johnson Haven, Port Michaelstad, IN 57279, India",India,paid
+1039,Marisa Hoffman,kevinromero@stewart.info,2025-03-13,headphones,1,46601,46601,"79199 Smith Pines Suite 854, Edwardtown, NY 93547, India",India,paid
+1040,Amber Myers,mtaylor@hotmail.com,2024-09-11,laptop,2,70117,140234,"95326 Christine Circle, Evelynfurt, PA 90640, India",India,paid
+1041,Madison Smith,ndavis@todd-hernandez.net,2025-04-10,phone,2,37902,75804,"6421 George Points Apt. 770, Mcdonaldbury, LA 98999, India",India,not paid
+1042,Jose Bailey,williamjackson@yahoo.com,2025-04-17,keyboard,2,74398,148796,"837 Mark Prairie, West Christine, AR 61863, India",India,not paid
+1044,Connie Walker,ybates@shaw.net,2025-05-25,laptop,2,9512,19024,"0080 Wilson Mews Apt. 687, Rileyfort, WV 85481, India",India,paid
+1045,customer_3,isaac51@jordan.com,2025-04-06,phone,3,5061,15183,"7742 Sutton Ridge Suite 417, Danielsbury, WV 40944, India",India,pending
+1046,Robyn Howard,bramirez@murphy.com,2025-02-09,keyboard,3,78789,236367,"797 Davis Haven Suite 040, Davidchester, MN 49104, India",India,pending
+1047,Cory Sherman,audreyfitzgerald@gmail.com,2025-02-02,headphones,3,14493,43479,"7434 Timothy Court, Port Kyle, WI 21154, India",India,not paid
+1048,Scott Klein,michelle29@lee-mcdowell.com,2024-08-24,charger,2,53074,106148,"378 Courtney Village Suite 779, Stephanieshire, SD 21158, India",India,not paid
+1049,Shelby Crawford,heidimckinney@brennan-davis.info,2025-04-06,keyboard,1,75847,75847,"3404 Jones Gateway, Michaelville, MS 52254, India",India,not paid
+1050,Kristopher Mercer,belljanet@robinson.info,2025-07-22,keyboard,3,12321,36963,"500 Edwin Stravenue, West Erin, VT 05299, India",India,not paid
